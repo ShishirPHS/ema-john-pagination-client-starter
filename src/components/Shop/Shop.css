@@ -29,4 +29,9 @@
 .pagination {
   display: flex;
   justify-content: center;
+  margin-bottom: 40px;
+}
+
+.pagination button {
+  margin: 0 5px 0 5px;
 }
